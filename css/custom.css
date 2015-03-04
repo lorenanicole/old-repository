@@ -1,0 +1,21 @@
+body {
+	background-image: url("../images/large-img.jpg");
+}
+
+.navbar-list {
+	list-style: none;
+}
+
+.navbar-list li {
+	float: left;
+}
+
+a {
+	color: black;
+	text-decoration: none; 
+}
+
+a:hover {
+	color: lightgrey;
+	text-decoration: underline;
+}
